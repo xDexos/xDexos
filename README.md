@@ -4,11 +4,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-</div>
+<p align="center">
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)](www.linkedin.com/in/mikołaj-namysł-6470b7254)
+  [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.gg/TwojInvite)
+  [![Ko-fi](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&color=F16061&logoColor=white&style=for-the-badge)](https://ko-fi.com/TwojProfil)
+</p>
+
 
 ###
 
