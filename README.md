@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xDexos.xDexos&left_text=Visitors"  />
   <img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Game_Development-blue" alt="Focus" />
 </div>
 
 ###
